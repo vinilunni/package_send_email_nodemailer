@@ -1,0 +1,8 @@
+{
+  "name": "package_send_email_nodemailer",
+  "type": "appBlock",
+  "source": {
+    "https": "https://github.com/vinilunni/package_send_email_nodemailer",
+    "ssh": "git@github.com:vinilunni/package_send_email_nodemailer.git"
+  }
+}
